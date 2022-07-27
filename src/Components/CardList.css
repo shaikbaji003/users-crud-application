@@ -1,0 +1,13 @@
+.cardlist {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: center;
+    margin-top: 3%;
+    margin-left: 10%;
+  }
+
+  .alert{
+    margin-top: 5%;
+  }
